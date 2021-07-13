@@ -2,6 +2,9 @@
 Financial System
 
 
+This Module is about Verify Invoice and the status will change from Entry to Verify.
+
+
 👋 Hi, I’m @shafkasih
 
 👀 I’m interested in programming with languages PHP
